@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityDemo-Asp.NetCore", "IdentityDemo-Asp.NetCore.csproj", "{198E233F-E5C9-444D-8FF5-D983942B5041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198E233F-E5C9-444D-8FF5-D983942B5041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198E233F-E5C9-444D-8FF5-D983942B5041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198E233F-E5C9-444D-8FF5-D983942B5041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198E233F-E5C9-444D-8FF5-D983942B5041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D500E73D-6B95-4152-AEE3-A13830CFF87F}
+	EndGlobalSection
+EndGlobal
